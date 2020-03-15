@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+}
+
+.number{
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+    font-family: 微軟正黑體;
+    margin-top: 30px;
+}
