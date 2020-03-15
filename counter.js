@@ -17,7 +17,7 @@ $("*").each(function(){
         step: function(now){
             // text()更新文字
             // Math.floor()去小數
-            $("this").text(Math.floor(now))
+            $(this).text(Math.floor(now))
         }
     });
 })
